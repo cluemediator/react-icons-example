@@ -16,7 +16,7 @@ Follow the below steps to run the project.
 
 ## Output
 
-[![React Example](https://www.cluemediator.com/wp-content/uploads/2023/01/output-how-to-add-icons-in-react-clue-mediator.gif)](https://www.cluemediator.com/how-to-add-icons-in-react)
+[![React Example](https://www.cluemediator.com/wp-content/uploads/2023/01/output-how-to-add-icons-in-react-clue-mediator.jpg)](https://www.cluemediator.com/how-to-add-icons-in-react)
 
 **Follow us on [GitHub](https://github.com/cluemediator) for more update.**
 
